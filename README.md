@@ -182,5 +182,6 @@ Password: Johnpass
 as for the hibernate and JPA libraries, they are not functional and are just skeleton code that i got from trying to follow along tutorials and guides online. 
 
 video for explanation: https://youtu.be/Bd-88KPYoJY
-6. 
-and cannot be run alongside the 
+
+to run our previous version of the system, follow the same steps as detailed for A3, except now the file name is called beast onsite. contained is the ORM code that i 
+attempted. 
